@@ -1,0 +1,14 @@
+
+Maak een applicatie voor een winkelkarretje van een autogarage. In het winkelkarretje liggen producten. Elk product heeft een prijs en een naam.
+Er zijn twee soorten producten: diensten en goederen. Van elke dienst kan er steeds maar één toegevoegd worden, van producten kunnen er meerdere toegevoegd worden.
+Diensten zijn bijvoorbeeld onderhoud of schoonmaak. Goederen zijn bijvoorbeeld winterbanden of koelvloeistof. 
+
+Een gebruiker ziet een lijst van producten. Naast een product in deze lijst is een knop; als de gebruiker hier op drukt wordt het product één keer toegevoegd.  
+
+Verder ziet een gebruiker ook het winkelkarretje met toegevoegde producten. Naast elk product in het winkelkarretje is ook een knop; als een gebruiker hierop drukt wordt er één instantie van het product verwijderd. 
+
+Hou er rekening mee dat er niets mag gebeuren als je een dienst probeert toe te voegen die al toegevoegd is! 
+
+
+
+        
